@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://wa.me/919316792320">WhatsApp</a>
+  <a href="https://wa.me/919316792320">WhatsApp</a><p><a href="https://www.instagram.com/anilbhai8040/" target="_blank">Instagram</a></p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
